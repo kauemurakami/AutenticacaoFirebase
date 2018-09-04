@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59082225087",
+    "firebase_url": "https://autenticacao-8ba8c.firebaseio.com",
+    "project_id": "autenticacao-8ba8c",
+    "storage_bucket": "autenticacao-8ba8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59082225087:android:e84effeae5be3f1a",
+        "android_client_info": {
+          "package_name": "ktmfirevaseapp.com.autenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59082225087-ukojnck9rekqannmduiqrl6cdf7puha6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ktmfirevaseapp.com.autenticacao",
+            "certificate_hash": "15894cb80327e3d61c0f0913346e28d3d58200a3"
+          }
+        },
+        {
+          "client_id": "59082225087-d9aq8u7nu8r8ee0jftsko3jasj645b9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxrnbcDb3FaeiaB3K5UxkeT3CuPJj82E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59082225087-d9aq8u7nu8r8ee0jftsko3jasj645b9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
